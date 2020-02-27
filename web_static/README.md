@@ -1,0 +1,1 @@
+This sub directory is exclusively for HTML and CSS styling of the AirBnB clone
